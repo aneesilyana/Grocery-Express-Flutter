@@ -1,0 +1,10 @@
+# Keep all classes in the application package
+-keep class com.example.** { *; }
+
+# Don't warn about missing classes in the package
+-dontwarn com.example.**
+
+# Keep the Flutter framework
+-keep class io.flutter.** { *; }
+
+# Add rules for any specific libraries you're using (e.g., Firebase)

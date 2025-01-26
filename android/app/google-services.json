@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939795542523",
+    "project_id": "groceryexpress-963c7",
+    "storage_bucket": "groceryexpress-963c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939795542523:android:3e36e06963d482bd8a9b5e",
+        "android_client_info": {
+          "package_name": "com.example.grocery_express"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkrVB_iM4r3zyFCLqnYyY0wiDT3g8tMhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
